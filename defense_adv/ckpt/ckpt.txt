@@ -1,0 +1,1 @@
+Weights are publically at https://github.com/tensorflow/models/tree/archive/research/adv_imagenet_models 
